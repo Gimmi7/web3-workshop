@@ -1,7 +1,5 @@
-
 [![License](https://img.shields.io/badge/license-Apache-green.svg)](LICENSE)
 [![Discord chat](https://img.shields.io/discord/903339070925721652.svg?logo=discord&style=flat-square)](https://discord.gg/6GuRP2W3D5)
-
 
 # The Web3 Workshop
 
@@ -17,15 +15,12 @@ cargo install mdbook
 
 ### View [mdBook Documentation](https://rust-lang.github.io/mdBook/guide/creating.html)
 
-
-## Online Notes Book
-[https://gimmi7.github.io/web3-workshop/](https://gimmi7.github.io/web3-workshop/)
+## <a href="https://gimmi7.github.io/web3-workshop/" target="_blank">Online Notes Book</a>
 
 ## Previous Workshops
 
 | №   | Date                                 | Agenda                                              | Notes                                                                                                                                                                    | Recording                                                                          |
 | --- | ------------------------------------ | --------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------- |
-
 
 ## Community
 
