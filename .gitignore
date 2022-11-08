@@ -1,0 +1,9 @@
+**/target
+
+.idea
+
+**/*.keystore
+
+**/.DS_Store
+
+**/build
