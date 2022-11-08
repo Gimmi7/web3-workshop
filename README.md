@@ -9,11 +9,13 @@ This repository is used for recording workshop notes and agenda items and exampl
 
 ## Quickstart
 
-### In order to update the notes book and preview changes to it you`ll need to install [mdbook](https://rust-lang.github.io/mdBook/guide/installation.html)
+### In order to update the notes book and preview changes to it, you'll need to install [mdbook](https://rust-lang.github.io/mdBook/guide/installation.html)
 
 ```text
 cargo install mdbook
 ```
+
+### [mdBook Documentation](https://rust-lang.github.io/mdBook/guide/creating.html)
 
 
 ## Previous Workshops
