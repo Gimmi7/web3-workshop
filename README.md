@@ -15,8 +15,11 @@ This repository is used for recording workshop notes and agenda items and exampl
 cargo install mdbook
 ```
 
-### [mdBook Documentation](https://rust-lang.github.io/mdBook/guide/creating.html)
+### View [mdBook Documentation](https://rust-lang.github.io/mdBook/guide/creating.html)
 
+
+## Online Notes Book
+[https://gimmi7.github.io/web3-workshop/](https://gimmi7.github.io/web3-workshop/)
 
 ## Previous Workshops
 
